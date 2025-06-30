@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a68fcb9b65ab24340bbede9944d9e9eb, type: 3}
+  m_Name: Main Prefab Spawn Profile
+  m_EditorClassIdentifier: 
+  prefabGroups:
+  - groupName: Trees
+    prefabs:
+    - {fileID: 4106068957344893090, guid: d22cb5c88db50f5469f6bd2e1299956d, type: 3}
+    spawnProbability: 0.5
+    maxInstances: 500
+    minDistanceBetweenSameType: 10
+    minDistanceFromOtherTypes: 2
+    customLayer: 0
+    randomizeRotation: 0
+    minRotation: 0
+    maxRotation: 0
+    randomizeScale: 0
+    scaleRange: {x: 0, y: 0}
+    treatAsSingleCell: 0
+  globalSpawnChance: 1
+  useRandomPrefabsInGroups: 1
+  applyTransformSettings: 1

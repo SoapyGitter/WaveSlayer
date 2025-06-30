@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59106477a5f85d54d98f201a0be876d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201165
+  packageName: 2D Dissolve Effect Pack Free Edition For The Universal Render Pipeline
+  packageVersion: 1.0
+  assetPath: Assets/2D Dissolve Pack Free/Materials/Shader Graphs_Dissolve_MixedNoises.mat
+  uploadId: 448112
